@@ -3,7 +3,9 @@ import Game from './components/Game/index';
 
 function App() {
     return (
-        <Game />
+        <div>
+            <Game />
+        </div>
     );
 }
 
